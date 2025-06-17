@@ -1,2 +1,2 @@
 # random-color-generator
-in this project we have make use of eventListeners in javascript and some basic math to put up this mini random color generator
+A simple web app that generates a random color and displays its rgb code. Great for designers and developers!
